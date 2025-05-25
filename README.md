@@ -51,7 +51,7 @@ Discord Server - https://discord.gg/Fc5a7WBgU7
 
 ---
 
-# MTA:SA Script Converter
+# 🇹🇷 MTA:SA Script Converter
 
 MTA:SA için script dönüştürme işlemlerini kolaylaştıran basit ve güçlü bir araç.  
 Vehicle, Skin ve Object kaynakları kolayca oluşturun ve Lua dosyalarınızı LUAC formatına dönüştürün — hepsi tek bir programda.
