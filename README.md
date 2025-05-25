@@ -1,4 +1,4 @@
-# MTA:SA Script Converter
+# 🇺🇸 MTA:SA Script Converter
 
 A simple and powerful tool for converting scripts for MTA:SA.  
 Easily create Vehicle, Skin, and Object resources, and convert Lua scripts to compiled LUAC files—all in one program.
